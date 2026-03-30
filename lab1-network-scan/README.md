@@ -20,6 +20,8 @@
   - [8. Web Technology Detection](#8️⃣-web-technology-detection)
 - [Troubleshooting](#️-errors--troubleshooting)
 - [Results & Key Learnings](#-results)
+- [Attack Flow](#-attack-flow)
+- [Skills Demonstrated](#-skills-demonstrated)
 - [Conclusion](#-conclusion)
 
 ---
@@ -227,6 +229,29 @@ Two adapter types were used in combination to balance isolation and internet acc
 | Web Service Detected | ✅ Apache HTTP Server |
 | Inter-VM Communication | ✅ Verified via ping |
 | Web Fingerprinting | ✅ WhatWeb successfully identified stack |
+
+---
+
+## 🧪 Attack Flow
+
+1. Configure lab network and assign IP addresses
+2. Verify connectivity using ping
+3. Perform network scanning using Nmap
+4. Identify active hosts and open ports
+5. Detect services running on target machines
+6. Access Apache web server from Kali Linux
+7. Perform web technology detection using WhatWeb
+
+---
+
+## 💡 Skills Demonstrated
+
+- Network configuration and troubleshooting
+- IP addressing and subnetting
+- Network scanning using Nmap
+- Service enumeration and analysis
+- Web reconnaissance using WhatWeb
+- Basic attacker methodology (reconnaissance phase)
 
 ---
 

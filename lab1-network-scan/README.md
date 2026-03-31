@@ -172,7 +172,7 @@ http://192.168.248.128
 
 ### 8️⃣ Web Technology Detection
 
-`WhatWeb` was used to fingerprint the technologies running on the target web server — a common step in real-world web application reconnaissance.
+`WhatWeb` was used to fingerprint the technologies running on the target web server a common step in real-world web application reconnaissance.
 
 ```bash
 whatweb http://192.168.248.128
@@ -216,7 +216,7 @@ Two adapter types were used in combination to balance isolation and internet acc
 
 ![NAT Adapter](images/14-nat-adapter2.png)
 
-> Combining both adapters created a realistic and flexible lab network — isolated for security testing, yet internet-accessible for package management.
+> Combining both adapters created a realistic and flexible lab network isolated for security testing, yet internet-accessible for package management.
 
 ---
 
@@ -270,7 +270,7 @@ Two adapter types were used in combination to balance isolation and internet acc
 
 ## 🚀 Conclusion
 
-This lab provided practical, hands-on experience in building an isolated cybersecurity environment and performing foundational reconnaissance tasks. The skills practiced here — network configuration, host discovery, service enumeration, and web fingerprinting — are directly applicable to both **penetration testing** and **security monitoring** roles.
+This lab provided practical, hands-on experience in building an isolated cybersecurity environment and performing foundational reconnaissance tasks. The skills practiced here network configuration, host discovery, service enumeration, and web fingerprinting, are directly applicable to both **penetration testing** and **security monitoring** roles.
 
 ---
 

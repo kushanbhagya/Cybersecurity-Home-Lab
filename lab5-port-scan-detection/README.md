@@ -155,7 +155,7 @@ nmap -A 192.168.248.128
 
 ### 5️⃣ Detect Scan in Wireshark
 
-A display filter was applied in Wireshark to isolate SYN packets — the primary indicator of a port scan.
+A display filter was applied in Wireshark to isolate SYN packets the primary indicator of a port scan.
 
 ```
 tcp.flags.syn == 1 && tcp.flags.ack == 0
@@ -259,7 +259,7 @@ The following behaviors, observed in Wireshark and tcpdump, are characteristic o
 
 ## 🚀 Conclusion
 
-This lab demonstrated how to detect and analyze port scanning activity using Wireshark and tcpdump. By filtering for SYN-only packets and correlating traffic patterns, the attacker's IP and scanning behavior were clearly identified — reinforcing the importance of network traffic analysis as a core defensive skill in cybersecurity monitoring and incident response.
+This lab demonstrated how to detect and analyze port scanning activity using Wireshark and tcpdump. By filtering for SYN-only packets and correlating traffic patterns, the attacker's IP and scanning behavior were clearly identified reinforcing the importance of network traffic analysis as a core defensive skill in cybersecurity monitoring and incident response.
 
 ---
 

@@ -1,6 +1,6 @@
 # 🛡️ Lab 6: Detect and Block Port Scanning using UFW + Fail2Ban
 
-> *Combine UFW firewall logging with Fail2Ban's automated response engine to detect port scanning traffic and instantly ban the attacker's IP — without any manual intervention.*
+> *Combine UFW firewall logging with Fail2Ban's automated response engine to detect port scanning traffic and instantly ban the attacker's IP, without any manual intervention.*
 
 ---
 

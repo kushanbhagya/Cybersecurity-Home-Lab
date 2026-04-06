@@ -15,7 +15,8 @@
 | 05 | [Detecting Port Scanning using Nmap and Wireshark](./lab5-port-scan-detection/) | ✅ Complete |
 | 06 | [Detect and Block Port Scanning using UFW + Fail2Ban](./lab6-portscan-detection-blocking/) | ✅ Complete |
 | 07 | [Web Attack Detection using Apache Logs](./lab7-web-attack-detection-apache-logs/) | ✅ Complete |
-| 08 | Coming Soon | 🔜 Upcoming |
+| 08 | [Real-Time Log Alerting using Apache Logs](./lab8-real-time-log-alerting/) | ✅ Complete |
+| 09 | Coming Soon | 🔜 Upcoming |
 
 ---
 

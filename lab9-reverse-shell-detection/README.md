@@ -327,7 +327,7 @@ A reverse shell leaves traces across **three detection layers** simultaneously:
 
 ## 🚀 Conclusion
 
-This lab demonstrated a complete reverse shell attack and detection lifecycle. By combining `netstat`, `ps`, `tcpdump`, and a custom Bash alerting script, the attack was detected across network, process, and packet layers simultaneously — reflecting the **multi-source correlation** approach used in professional threat detection. Understanding how reverse shells work and how to spot them is a foundational skill for both penetration testers and defenders.
+This lab demonstrated a complete reverse shell attack and detection lifecycle. By combining `netstat`, `ps`, `tcpdump`, and a custom Bash alerting script, the attack was detected across network, process, and packet layers simultaneously reflecting the **multi-source correlation** approach used in professional threat detection. Understanding how reverse shells work and how to spot them is a foundational skill for both penetration testers and defenders.
 
 ---
 

@@ -26,7 +26,7 @@
 
 ## 🎯 Objective
 
-Build a **custom Bash alerting script** that monitors Apache access logs in real time and generates instant terminal alerts when suspicious web activity is detected — simulating a basic **Security Operations Center (SOC)** monitoring workflow without requiring a full SIEM platform.
+Build a **custom Bash alerting script** that monitors Apache access logs in real time and generates instant terminal alerts when suspicious web activity is detected, simulating a basic **Security Operations Center (SOC)** monitoring workflow without requiring a full SIEM platform.
 
 ---
 

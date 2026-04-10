@@ -302,7 +302,7 @@ ssh testuser@192.168.248.128
 
 ## 📘 Key Learnings
 
-- ✅ **UFW alone logs threats** — but Fail2Ban turns those logs into automated action
+- ✅ **UFW alone logs threats** but Fail2Ban turns those logs into automated action
 - ✅ Custom filters give Fail2Ban the ability to detect **any** attack pattern that appears in logs
 - ✅ The `<HOST>` placeholder in `failregex` is what links a log entry to an IP ban
 - ✅ Port scanning generates a distinctive burst of `UFW BLOCK` entries — easy to detect
